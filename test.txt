@@ -1,0 +1,5 @@
+Ma'am
+
+Here is the extra work 
+
+I added a real time tweet grap based on tag then  from this tweet identify disaster tweet and exract location. Then based on the information quick respose team can help the survivor 
